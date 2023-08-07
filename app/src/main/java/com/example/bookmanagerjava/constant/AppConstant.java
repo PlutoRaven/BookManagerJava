@@ -1,7 +1,7 @@
 package com.example.bookmanagerjava.constant;
 
 public interface AppConstant {
-    String BASE = "http://192.168.1.221:8080";
+    String BASE = "http://192.168.167.106:8080";
     String BASE_URL = BASE + "/api/";
     String LOGIN_USERNAME = "LOGIN_USERNAME";
     String LOGIN_PASSWORD = "LOGIN_PASSWORD";

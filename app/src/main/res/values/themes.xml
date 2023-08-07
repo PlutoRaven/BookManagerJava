@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.bookmanagerjava" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.BookMangerJava" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">#E1E2E7</item>
@@ -14,9 +14,9 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
     </style>
 
-    <style name="Theme.bookmanagerjava" parent="Base.Theme.bookmanagerjava" />
+    <style name="Theme.BookMangerJava" parent="Base.Theme.BookMangerJava" />
 
-    <style name="Theme.bookmanagerjava.FullScreen">
+    <style name="Theme.BookMangerJava.FullScreen">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
